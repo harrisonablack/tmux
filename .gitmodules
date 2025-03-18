@@ -1,0 +1,3 @@
+[submodule "plugins/plugins/minimal-tmux-status"]
+	path = plugins/plugins/minimal-tmux-status
+	url = https://github.com/niksingh710/minimal-tmux-status.git
