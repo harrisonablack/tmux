@@ -8,19 +8,3 @@ path = "~/.config/tmux"
 [[session]]
 name = "nvim config"
 path = "~/.config/nvim"
-
-[[session]]
-name = "COSC2802"
-path = "~/repos/rmit/COSC2802"
-
-[[session]]
-name = "COSC2804"
-path = "~/repos/rmit/COSC2804"
-
-[[session]]
-name = "curas-server"
-path = "~/repos/curas/curas-server"
-
-[[session]]
-name = "curas-web"
-path = "~/repos/curas/curas-web"
