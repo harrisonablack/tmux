@@ -9,7 +9,7 @@ The config is designed to be simple but powerful, with plugins managed through [
 > [!IMPORTANT]
 > You’ll need `tmux >= 3.3`, [TPM](https://github.com/tmux-plugins/tpm), and [sesh](https://github.com/joshmedeski/sesh) installed for this config to work as expected.
 
-Clone the repo into your tmux config folder, typically `~/.config/tmux`:
+Clone the repo into your tmux config folder, typically `~/.config`:
 
 ```bash
 git clone https://github.com/harrisonablack/tmux.git ~/.config/tmux
